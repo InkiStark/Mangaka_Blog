@@ -116,6 +116,7 @@ Distributed under the GPL License. See `LICENSE.txt` for more information.
 ## Contact
 
 Giannis Kekes - micron00@mail.com</br>
+Leonidas A. Tzaferai - tzaferisleonidas@gmail.com</br>
 Project Link: - [https://github.com/Jozmon/manga-blog][repo-link]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
